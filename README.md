@@ -19,10 +19,6 @@ Execute the C Program for the desired output.
 
 # PROGRAM:
 ```
-
-
-
-
 ```
 ## 1.To Write a C program that illustrates files copying
 ```
@@ -94,6 +90,8 @@ return 0;
 
 
 ## OUTPUT
+
+
 rwxr-xr-x    1 root     root         18376 Apr 17 14:20 text.o
 
 
